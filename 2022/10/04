@@ -1,1 +1,40 @@
+<html>
+     <head>                                                                                             <!-- head Tarayıcı da görünür -->
+	     <title>2. Öğretim Ders</title>
+		 <meta charset="utf-8" />
+		 <meta name="keywords" content="dpü, kütahya, dumlupınar" />                                    <!-- title, meta vs tag -->
+		 <meta name="description" content="İlk HTML Sayfam" />                                          <!-- name, charset vs attribute (öznitelik) -->
+		  
+	 </head>
+	 
+	 <body>
+		Merhaba Dünya<br />                                                                             <!-- br Bir satır atlar -->
+		Kış Geliyor...
+		<p>Kütahya Dumlupınar Üniversitesi </p>                                                         <!-- p Paragraf başlatır -->
+		<p>Kütahya Teknik Bilimler MYO </P>
+		<hr />                                                                                          <!-- hr horizantal (yatay) çizgi -->
+		<h1>Kütahya Dumlupınar Üniversitesi </h1>                                                       <!-- h1.....h6 Büyükten küçüğe doğru başlıklardır -->
+		<h2>Kütahya Dumlupınar Üniversitesi </h2>
+		<h3>Kütahya Dumlupınar Üniversitesi</h3>
+		<h4>Kütahya Dumlupınar Üniversitesi </h4>
+		<h5>Kütahya Dumlupınar Üniversitesi </h5>
+		<h6>Kütahya Dumlupınar Üniversitesi </h6>
+		
+		<ol>                                                                                            <!-- ol ordered list (sıralı liste) -->
+		   <li>Balıkesir Spor</li>
+		   <li>Beşiktaş </li>                                                                           <!-- li list (maddeler) -->
+		   <li>Galatasaray </li>
+		   <li>Tavşanlı Linyitspor </li>
+		</ol>
+         
+        <ul>                                                                                            <!-- ul unordered liste (sırasız liste) -->
+          <li>Balıkesir Spor </li>
+		  <li>Kayseri Spor </li>
+		  <li>Trabzon Spor </li>
+		</ul>
+		  
+		  
+		   
+	 </body>
 
+</html>
