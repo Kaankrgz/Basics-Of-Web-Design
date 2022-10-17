@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Özgeçmiş</title>
+    </head>
+    <body>
+        <h1><font color="pink">Yiğit Kağan Karagöz</font></h1>
+            <img src="me.jpeg" width="292" align="left">
+            <h1>Hakkımda</h1>
+            <hr size="7px" noshade="7"/>
+            <p><font size="6">Meraklı olmam ve araştırmayı yapmaktan keyif almamdan dolayı ilgim olan her konuda bilgi sahibi olmaya çalışırım. Özellikle takım halinde bir işle uğraşmaktan hoşlanırım, bu durumun bilgi aktarımı için çok etkili olduğuna inanırım.Geleceğim için şu anda okudum Bilgisayar Programcılığı bölümünü DGS ile Bilgisayar Mühendisliğine tamamlamak istiyorum.</font></p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h1>Eğitim</h1>
+            <hr size="7px" noshade="7"/>
+            <ul type="square">
+                <li><font size="6">2017-2021</font></li>
+                <p><font size="5">Özel Başak Koleji Anadolu Lisesi mezunu</font></p>
+                <li><font size="6">2021-2022</font></li>
+                <p><font size="5">Akdeniz Üniversitesi Mekatronik bölümüne başladım fakat kendime uygun olmadığını fark ettiğim için yarıda bırakarak yatay geçiş yaptım.</font></p>
+                <li><font size="6">2022-....</font></li>
+                <p><font size="5">Yatay geçiş ile Dumlupınar Üniversitesi Bilgisayar Programcılığına başladım.</font></p>
+            </ul>
+            <h1>Sertifikalar</h1>
+            <hr size="7px" noshade="7" />
+            <p><font size="5">18 aralık 2021 tarihinde dahil olduğum Google Oyun ve Uygulama Akademisi kapsamında 2 adet sertifika alma fırsatı buldum.</font></p>
+            <img src="srtfka1.png" height="666" align="left" >
+            <img src="srtfka2.png" height="666">
+    </body>
+</html>
