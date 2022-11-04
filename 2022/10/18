@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>3.Hafta ders</title>
+    </head>
+    <body>
+        <h1>Balıkesir</h1>
+        <b>Balıkesir güzellikleri için <a href="blksr.html">tıklayınız.</a> </b>    <!-- link eklemek için <a href="_______"> tıklayınız </a> a->(Anchor=çapa)-->
+        <h3>Balıkesir Siteleri</h3>
+        <ul>
+            <li><a href="https://www.balikesir.bel.tr"
+                   target="_blank"       
+                >Belediye</a>      <!-- target="_blank" sayfanın yeni sekmede açılmasını sağlar--> <!--gidilen linklerde https uzantısının olmasına özen göster.-->
+            </li>
+            <li>
+                <a href="mailto:gkrgz09@mail.com">  <!--maile yönlendirmek için mailto: kullanılmalı-->
+                İletişim için tıklayınız
+                </a>
+            </li>
+        </ul>
+        <a href="https://www.dpu.edu.tr" target="_blank"> <img src="dpu.jpeg" width="350px" alt="dpü" /> </a>
+
+        <hr />
+
+        <h3 align="center">Öğrenci listesi</h3>
+        <table border="1" align="center"> <!-- table tablo oluşturur tr->satır td->sütun th->başlık -->
+            <tr>
+                <th widht="300">Öğrenci No</th>       <!--her hücre ya da direkt tabloya uzunluk ve genişlik ayarı verilebilir -->
+                <th width="30%">Ad</th>               <!--yüzde ile genişlik ayarlanabilir ama örn 20% şeklinde yazılmalı -->
+                <th width="200">Soyad</th>
+            </tr>
+            <tr>
+                <td>202251502802</td>
+                <td>Yiğit Kağan</td>
+                <td>Karagöz</td>
+            </tr>
+            <tr>
+                <td>202251502802</td>
+                <td>Yiğit Kağan</td>
+                <td>Karagöz</td>
+            </tr>
+        </table>
+    </body>
+</html>
