@@ -1,0 +1,93 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>25-10</title>
+    </head>
+    <body>
+        <table border="1" width="250">
+            <tr>
+                <td rowspan="2">
+                    A
+                </td>
+                <td colspan="2">
+                    B
+                </td>
+                <td>
+                    C
+                </td>
+                <td>
+                    D
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    E
+                </td>
+                <td>
+                    F
+                </td>
+                <td>
+                    G
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    H
+                </td>
+                <td>
+                    I
+                </td>
+                <td>
+                    J
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    K
+                </td>
+                <td>
+                    L
+                </td>
+                <td>
+                    M
+                </td>
+                <td>
+                    N
+                </td>
+                <td>
+                    O
+                </td>
+            </tr>
+        </table>
+        <form action="" method="get">
+            İsim <br />
+            <input type="text" name="isim" />
+            <br />
+            Şifre <br />
+            <input type="password"  name="sifre" />
+            <br />
+            Adres: <br />
+            <textarea name="adres" cols="40" rows="10"></textarea>
+            <br />
+            Cinsiyet<br />
+            <input type="radio" name="cinsiyet" value="E" /> Erkek <br/>
+            <input type="radio" name="cinsiyet" value="K" /> Kadın <br/>
+
+            <br />
+            Hobileriniz
+            <br />
+            <input type="checkbox" name="hobiler[]" value="motosikler" /> Motosikler kullanmak <br/>
+            <input type="checkbox" name="hobiler[]" value="oyun" /> Oyun oynamak <br/>
+            <input type="checkbox" name="hobiler[]" value="spor" /> Spor yapmak <br/>
+            <input type="checkbox" name="hobiler[]" value="filn" /> Film izlemek <br/>
+
+            şehir<br/>
+            <select name="sehir">
+                <option value="1">Adana</option>
+                <option value="10">Balıkesir</option>
+                <option value="43">Kütahya</option>
+                <option value="68">Aksaray</option>
+            </select>
+        </form>
+    </body>
+</html>
