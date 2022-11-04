@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <style type="text/css">
+            body {
+                background-color: gray;
+            }
+            #baslik{
+                font-size: 70px;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                background-color: brown;
+                color: blanchedalmond;
+                
+            }
+            .orta{
+                font-size: 50px;
+                text-align: center;
+                color: blueviolet;
+            }
+            #sol{
+                text-align: left;
+                color: blueviolet;
+                font-size: 50px;
+            }
+        </style>
+    </head>
+    <body>
+
+        <h1 id="baslik">CSS 1. Ders</h1>
+        <p class="orta">Deneme Paragraf</p>
+        <p id="sol">Sola dayalı</p>
+
+    </body>
+</html>
